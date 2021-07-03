@@ -1,4 +1,6 @@
-使用PYTHON的IDE，输入下面的这行代码：
+# 在IDLE中打印
+
+使用PYTHON的IDLE，输入下面的这行代码：
 
 ```python
 print("Python基本打印！Hello World!")
@@ -11,4 +13,8 @@ print("Python基本打印！Hello World!")
 ```python
 print("34*99= ", 34*99)
 ```
+
+# 创建及保存Python文件
+
+Python的程序文件都是使用后缀 .py 的。
 
