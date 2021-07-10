@@ -1,4 +1,6 @@
-# 在IDLE中打印
+# 001 Python基础回顾
+
+## 在IDLE中打印
 
 使用PYTHON的IDLE，输入下面的这行代码：
 
@@ -14,7 +16,7 @@ print("Python基本打印！Hello World!")
 print("34*99= ", 34*99)
 ```
 
-# 创建及保存Python文件
+## 创建及保存Python文件
 
 Python的程序文件都是使用后缀 .py 的。
 
