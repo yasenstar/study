@@ -2,6 +2,10 @@
 
 Date: 2021-08-14
 
+[toc]
+
+## Text
+
 [1]  It should be obvious that cetaceans whales, porpoises, and dolphins-are mammals. They breathe through lungs, not through gills, and give birth to live young. __[?]__ Their streamlined bodies, the absence of hind legs, and the presence of a fluke and blowhole cannot disguise their affinities with land dwelling mammals. __[?]__ However, unlike the cases of sea otters and pinnipeds(seals, sea lions, and walruses, whose limbs are functional both on land and at sea), it is not easy to envision what the first whales looked like. Extinct but already fully marine cetaceans are known from the fossil record. __[?]__ How was the gap between a walking mammal and a swimming whale bridged? __[?]__ Missing until recently were fossils clearly intermediate, or transitional,between land mammals and cetaceans.
 
 [2]  Very exciting discoveries have finally allowed scientists to reconstruct the most likely origins of cetaceans. In 1979, a team looking for fossils in northern Pakistan found what proved to be the oldest fossil whale. The fossil was officially named Pakicetus in honor of the country where the discovery was made. Pakicetus was found embedded in rocks formed from river deposits that were 52 million years old. The river that formed these deposits was actually not far from an ancient ocean known as the Tethys Sea.
@@ -13,6 +17,8 @@ Date: 2021-08-14
 [5]  An even more exciting find was reported in 1994, also from Pakistan. The now extinct whale Ambulocetus natans (“the walking whale that swam”) lived in the Tethys Sea 49 million years ago. It lived around 3million years after Pakicetus but 9 million before Basilosaurus. The fossil luckily includes a good portion of the hind legs. The legs were strong and ended in long feet very much like those of a modern pinniped. The legs were certainly functional both on land and at sea. The whale retained a tail and lacked a fluke, the major means of locomotion in modern cetaceans. The structure of the backbone shows, however, that Ambulocetus swam like modern whales by moving the rear portion its body up and down, even though a fluke was missing. The large hind legs were used for propulsion in water. On land, where it probably bred and gave birth, Ambulocetus may have moved around very much like a modern sea lion. It was undoubtedly a whale that linked life on land with life at sea.
 
 ---
+
+## Questions
 
 1. In paragraph 1, what does the author say about the presence of a blowhole in cetaceans?
 
@@ -188,7 +194,7 @@ F. Ambulocetus’ hind legs were used for propulsion in the water.
 
 ---
 
-【词汇装备】
+## 【词汇装备】
 
 cetacean n. 鲸鱼
 
@@ -222,7 +228,7 @@ undoubtedly adv. 确实地，无庸置疑地
 
 ---
 
-【文章大意】
+## 【文章大意】
 
 本文主要介绍的是能够清晰表现鲸鱼在从陆生哺乳动物到海生哺乳动物过渡时期的化石。1979年，一个小组在巴基斯坦北部地区找到了被证明是最古老的鲸鱼的化石。另一个重大发现发生于1989年的埃及，几块龙王鲸（另一种早期鲸鱼）的骨骼被发现于特提斯海遗留下的沉积物中，现在在撒哈拉沙漠暴露出来。一个更令人激动的发现是在1994年报道的，也来自巴基斯坦，已灭绝的走鲸（“会游泳的走动鲸鱼”）生活在四千九百万年前的特提斯海洋。它生活在Pakicetus之后约三百万年的时期，但是比龙王鲸早九百万年。
 
@@ -244,11 +250,10 @@ undoubtedly adv. 确实地，无庸置疑地
 
 ---
 
-【答案详解】
+## 【答案详解】
 
 1. B  细节题。根据文章第一段第三句话“the presence of a fluke and blowhole cannot disguise their affinities with land dwelling mammals.”可知，气孔（blowhole）不能掩盖它们与陆栖哺乳动物有密切关系这一事实。故答案为B项。
 2. A  推断题。根据第一段中间部分“unlike the cases of sea otters and pinnipeds ... it is not easy to envision what the first whales looked like”可知，还原海獭（sea otter）的原貌并不困难，但是还原鲸鱼的原貌不容易，故答案为A项。
-
 3. C  词汇题。precious意为“宝贵的，珍贵的”，选项中只有valuable与其同义。故答案为C项。
 4. C  细节题。文章第三段详细描述了Pakicetus（巴基鲸）and modern cetaceans（现代鲸鱼）之间的异同。根据第三句话“The skull is cetacean-like but ...”可以推断出，巴基鲸和现代鲸鱼的颅骨（skull shape）相似。故答案为C项。
 5. A  文章第三段最后提到了巴基鲸（Pakicetus）的生活习性，而代词it指代的正是本段一直在描述的Pakicetus，故答案为A项。
