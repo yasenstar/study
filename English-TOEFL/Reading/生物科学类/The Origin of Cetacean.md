@@ -2,13 +2,16 @@
 
 Date: 2021-08-14
 
-# Table of Contents
+__Table of Contents__
 1. [Text](#Text)
 2. [Questions](#Questions)
+3. [词汇](#【词汇装备】)
+4. [文章大意](#【文章大意】)
+5. [答案详解](#【答案详解】)
 
+---
 
-
-## Text <a name="Text"></a>
+## Text
 
 [1]  It should be obvious that cetaceans whales, porpoises, and dolphins-are mammals. They breathe through lungs, not through gills, and give birth to live young. __[?]__ Their streamlined bodies, the absence of hind legs, and the presence of a fluke and blowhole cannot disguise their affinities with land dwelling mammals. __[?]__ However, unlike the cases of sea otters and pinnipeds(seals, sea lions, and walruses, whose limbs are functional both on land and at sea), it is not easy to envision what the first whales looked like. Extinct but already fully marine cetaceans are known from the fossil record. __[?]__ How was the gap between a walking mammal and a swimming whale bridged? __[?]__ Missing until recently were fossils clearly intermediate, or transitional,between land mammals and cetaceans.
 
