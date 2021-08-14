@@ -5,9 +5,9 @@ Date: 2021-08-14
 __Table of Contents__
 1. [Text](#Text)
 2. [Questions](#Questions)
-3. [词汇](#【词汇装备】)
-4. [文章大意](#【文章大意】)
-5. [答案详解](#【答案详解】)
+3. [词汇](#词汇装备)
+4. [文章大意](#文章大意)
+5. [答案详解](#答案详解)
 
 ---
 
@@ -201,7 +201,7 @@ F. Ambulocetus’ hind legs were used for propulsion in the water.
 
 ---
 
-## 【词汇装备】
+## 词汇装备
 
 cetacean n. 鲸鱼
 
@@ -235,7 +235,7 @@ undoubtedly adv. 确实地，无庸置疑地
 
 ---
 
-## 【文章大意】
+## 文章大意
 
 本文主要介绍的是能够清晰表现鲸鱼在从陆生哺乳动物到海生哺乳动物过渡时期的化石。1979年，一个小组在巴基斯坦北部地区找到了被证明是最古老的鲸鱼的化石。另一个重大发现发生于1989年的埃及，几块龙王鲸（另一种早期鲸鱼）的骨骼被发现于特提斯海遗留下的沉积物中，现在在撒哈拉沙漠暴露出来。一个更令人激动的发现是在1994年报道的，也来自巴基斯坦，已灭绝的走鲸（“会游泳的走动鲸鱼”）生活在四千九百万年前的特提斯海洋。它生活在Pakicetus之后约三百万年的时期，但是比龙王鲸早九百万年。
 
@@ -257,7 +257,7 @@ undoubtedly adv. 确实地，无庸置疑地
 
 ---
 
-## 【答案详解】
+## 答案详解
 
 1. B  细节题。根据文章第一段第三句话“the presence of a fluke and blowhole cannot disguise their affinities with land dwelling mammals.”可知，气孔（blowhole）不能掩盖它们与陆栖哺乳动物有密切关系这一事实。故答案为B项。
 2. A  推断题。根据第一段中间部分“unlike the cases of sea otters and pinnipeds ... it is not easy to envision what the first whales looked like”可知，还原海獭（sea otter）的原貌并不困难，但是还原鲸鱼的原貌不容易，故答案为A项。
