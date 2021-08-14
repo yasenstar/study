@@ -184,7 +184,7 @@ F. Ambulocetus’ hind legs were used for propulsion in the water.
 
 
 
-<br><br><br><br><br>
+<br><br><br><br><br><div style="page-break-after: always"></div>
 
 ---
 
