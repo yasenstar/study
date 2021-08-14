@@ -1,4 +1,4 @@
-# The Sense of Smell
+# The Origin of Cetacean
 
 Date: 2021-08-14
 
@@ -13,41 +13,31 @@ __Table of Contents__
 
 ## Text
 
-[1]  Smell is the most direct of all the senses. It is thought to be the oldest sense in terms of human evolution, which may explain why smell is hardwired into the brain. The olfactory nerve, which manages the perception of smells, is essentially an extension of the brain. The olfactory nerve provides a direct link from receptors at the top of the nose to the portion of the brain that controls memory, emotion, and behavior.
+[1]  It should be obvious that cetaceans whales, porpoises, and dolphins-are mammals. They breathe through lungs, not through gills, and give birth to live young. __[?]__ Their streamlined bodies, the absence of hind legs, and the presence of a fluke and blowhole cannot disguise their affinities with land dwelling mammals. __[?]__ However, unlike the cases of sea otters and pinnipeds(seals, sea lions, and walruses, whose limbs are functional both on land and at sea), it is not easy to envision what the first whales looked like. Extinct but already fully marine cetaceans are known from the fossil record. __[?]__ How was the gap between a walking mammal and a swimming whale bridged? __[?]__ Missing until recently were fossils clearly intermediate, or transitional,between land mammals and cetaceans.
 
-[2]  The olfactory system detects certain airborne chemicals that enter the nose and then transmits this chemical information to the limbic system in the brain. The olfactory region at the upper end of each nostril is yellow, moist, and full of fatty substances. The shade of yellow indicates the strength of the sense of smell: the deeper the shade, the keener and more acute it is. Animals have a very strong sense of smell, so their olfactory regions are dark yellow to reddish brown, while those of humans are light yellow.
+[2]  Very exciting discoveries have finally allowed scientists to reconstruct the most likely origins of cetaceans. In 1979, a team looking for fossils in northern Pakistan found what proved to be the oldest fossil whale. The fossil was officially named Pakicetus in honor of the country where the discovery was made. Pakicetus was found embedded in rocks formed from river deposits that were 52 million years old. The river that formed these deposits was actually not far from an ancient ocean known as the Tethys Sea.
 
-[3]  When an odorous substance enters the nose, it binds to olfactory receptor cells, the neurons lining the yellow upper portion of the nasal cavity. Olfactory receptor cells contain microscopic hairs called cilia that extend into the layer of mucus coating the inside of the nose. Odor molecules diffuse into this region and are absorbed by the cilia of the olfactory receptor cells. What this means is that when we hold a rose to our nose and inhale, odor molecules float up into the nasal cavity, where they are absorbed by five million olfactory receptor cells. The receptor cells alert the olfactory nerve, which sends impulses to the brain’s olfactory bulb, or smell center. Thus, olfactory information about the rose enters the brain’s limbic system, where, in most of us, it stimulates a feeling of pleasure.
+[3]  The fossil consists of a complete skull of an archaeocyte, an extinct group of ancestors of modem cetaceans. Although limited to a skull, the Pakicetus fossil provides precious details on the origins of cetaceans. The skull is cetacean-like but its jawbones lack the enlarged space that is filled with fat or oil and used for receiving underwater sound in modern whales. Pakicetus probably detected sound through the ear opening as in land mammals. The skull also lacks a blowhole, another cetacean adaptation for diving. Other features, however, show experts that Pakicetus is a transitional form between a group of extinct flesh-eating mammals, the mesonychids, and cetaceans. It has been suggested that Pakicetus fed on fish in shallow water and was not yet adapted for life in the open ocean. It probably bred and gave birth on land.
 
-[4]  The limbic system of the brain integrates memory, emotion, and behavior. The system is composed of a group of related nervous system structures that are the functional center of emotions such as anger, fear,pleasure, and sadness. The components of the limbic system are linked to the cerebral cortex, the part of the brain involved in complex learning,reasoning, and personality. The cerebral cortex makes decisions about the emotional content of these unique human qualities after “consulting” the limbic system and other brain centers in processing and retrieving memories. It may, in turn, use memories to modify behavior.
+[4]  Another major discovery was made in Egypt in 1989. Several skeletons of another early whale, Basilosaurus, were found in sediments left by the Tethys Sea and now exposed in the Sahara desert. This whale lived around40 million years ago, 12 million years after Pakicetus. Many incomplete skeletons were found but they included, for the first time in an archaeocyte, a complete hind leg that features a foot with three tiny toes. Such legs would have been far too small to have supported the 50-foot-long Basilosaurus on land. Basilosaurus was undoubtedly a fully marine whale with possibly nonfunctional, or vestigial, hind legs.
 
-[5]  Scent may be the strongest trigger of memory and emotions. When we inhale a scent, receptors in the brain’s limbic center compare the odor entering our nose to odors stored in our memory. Along the way,memories associated with those odors are stimulated. A smell can be overwhelmingly nostalgic because it triggers powerful images and emotions. The waxy fragrance of crayons can instantly transport us to our second-grade classroom, or the scent of freshly mown grass can flood us with the joy of summer freedom. What we see and hear may fade quickly in short-term memory, but what we smell is sent directly to long-term memory.
-
-[6]  Smells can increase alertness and stimulate learning and retention. In one study, children memorized a word list, which was presented both with and without accompanying scents. The children recalled words on the list more easily and with higher accuracy when the list was given with scents than without, showing the link between smell and the ability to retain in formation. In another study, researchers examined how various smells can increase alertness and decrease stress. They found that the scent of lavender could wake up the metabolism and make people more alert. They also found that the smell of spiced apples could reduce blood pressure and avert a panic attack in people under stress.
+[5]  An even more exciting find was reported in 1994, also from Pakistan. The now extinct whale Ambulocetus natans (“the walking whale that swam”) lived in the Tethys Sea 49 million years ago. It lived around 3million years after Pakicetus but 9 million before Basilosaurus. The fossil luckily includes a good portion of the hind legs. The legs were strong and ended in long feet very much like those of a modern pinniped. The legs were certainly functional both on land and at sea. The whale retained a tail and lacked a fluke, the major means of locomotion in modern cetaceans. The structure of the backbone shows, however, that Ambulocetus swam like modern whales by moving the rear portion its body up and down, even though a fluke was missing. The large hind legs were used for propulsion in water. On land, where it probably bred and gave birth, Ambulocetus may have moved around very much like a modern sea lion. It was undoubtedly a whale that linked life on land with life at sea.
 
 ---
-
-## Glossary
-
-nostalgic: causing a desire for things, persons, or situations of the past; causing homesickness.
-
----
-
-
 
 ## Questions
 
-1. Why does the author use the term hard-wired in describing the sense of smell and the brain?
+1. In paragraph 1, what does the author say about the presence of a blowhole in cetaceans?
 
-A. To describe the texture and feel of the olfactory nerve.
+A. It clearly indicates that cetaceans are mammals.
 
-B. To emphasize the close connection between smell and the brain.
+B. It cannot conceal the fact that cetaceans are mammals.
 
-C. To compare the power of smell with that of other senses.
+C. It is the main difference between cetaceans and land-dwelling mammals.
 
-D. To explain how the sense of smell evolved in early humans.
+D. It cannot yield clues about the origins of cetaceans.
 
-==>
+
 
 2. Which of the following can be inferred from paragraph 1 about early sea otters?
 
