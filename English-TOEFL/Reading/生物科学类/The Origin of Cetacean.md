@@ -188,6 +188,40 @@ F. Ambulocetus’ hind legs were used for propulsion in the water.
 
 ---
 
+【词汇装备】
+
+cetacean n. 鲸鱼
+
+mammal n. [脊椎] 哺乳动物
+
+streamlined adj. 流线型的
+
+disguise vt. 掩饰；假装；隐瞒
+
+envision vt. 想象；预想
+
+intermediate adj. 中间的，中级的
+
+embed vt. 使嵌入，使插入
+
+skull n. 头盖骨
+
+transitional adj. 变迁的；过渡期的
+
+nonfunctional adj. 无功能的
+
+vestigial adj. 退化的；残余的；发育不全的
+
+extinct adj. 灭绝的，绝种的
+
+locomotion n. 运动；移动
+
+propulsion n. 推进；推进力
+
+undoubtedly adv. 确实地，无庸置疑地
+
+---
+
 【文章大意】
 
 本文主要介绍的是能够清晰表现鲸鱼在从陆生哺乳动物到海生哺乳动物过渡时期的化石。1979年，一个小组在巴基斯坦北部地区找到了被证明是最古老的鲸鱼的化石。另一个重大发现发生于1989年的埃及，几块龙王鲸（另一种早期鲸鱼）的骨骼被发现于特提斯海遗留下的沉积物中，现在在撒哈拉沙漠暴露出来。一个更令人激动的发现是在1994年报道的，也来自巴基斯坦，已灭绝的走鲸（“会游泳的走动鲸鱼”）生活在四千九百万年前的特提斯海洋。它生活在Pakicetus之后约三百万年的时期，但是比龙王鲸早九百万年。
