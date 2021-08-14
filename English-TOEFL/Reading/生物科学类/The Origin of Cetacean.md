@@ -184,11 +184,7 @@ F. Ambulocetus’ hind legs were used for propulsion in the water.
 
 
 
-
-
-
-
-
+<br><br><br><br><br>
 
 ---
 
@@ -211,3 +207,22 @@ F. Ambulocetus’ hind legs were used for propulsion in the water.
 11. D
 12. D
 13. ABE
+
+---
+
+【答案详解】
+
+1. B  细节题。根据文章第一段第三句话“the presence of a fluke and blowhole cannot disguise their affinities with land dwelling mammals.”可知，气孔（blowhole）不能掩盖它们与陆栖哺乳动物有密切关系这一事实。故答案为B项。
+2. A  推断题。根据第一段中间部分“unlike the cases of sea otters and pinnipeds ... it is not easy to envision what the first whales looked like”可知，还原海獭（sea otter）的原貌并不困难，但是还原鲸鱼的原貌不容易，故答案为A项。
+
+3. C  词汇题。precious意为“宝贵的，珍贵的”，选项中只有valuable与其同义。故答案为C项。
+4. C  细节题。文章第三段详细描述了Pakicetus（巴基鲸）and modern cetaceans（现代鲸鱼）之间的异同。根据第三句话“The skull is cetacean-like but ...”可以推断出，巴基鲸和现代鲸鱼的颅骨（skull shape）相似。故答案为C项。
+5. A  文章第三段最后提到了巴基鲸（Pakicetus）的生活习性，而代词it指代的正是本段一直在描述的Pakicetus，故答案为A项。
+6. B  词汇题。expose意为“暴露，揭露”。选项中只有B项visible最符合expose的词义，故答案为B项。
+7. D  细节题。根据文章第四段倒数第二、三句可知，龙王鲸（Basilosaurus）的后腿（hind leg）脚掌只有3个脚趾头。这样的小脚支撑不了50英尺长的Basilosaurus的陆地生活。故答案为D项。
+8. D  推断题。根据文中第四段最后一句对Basilosaurus（龙王鲸）的描述可以得知，龙王鲸完全是一种海生的动物，由此可以推断出它会在海里繁殖。故答案为D项。
+9. B  推论题。由于在陆地鲸化石中发现了后腿（hind leg），科学家们从中获得了更多有关陆地鲸的重要和完整的信息。故答案为B项。
+10. C  原句提供了四个信息“the structure of the backbone”；“Ambulocetus swam like modern whales”；“the rear portion of its body；a fluke was missing”。C项通过句型转换对原句重新作出了解释，并完整地表达了原句的语义，故答案为C项。
+11. D  词汇题。根据构词法，前缀pro-表示“往前”，pulse意为“跳动”，由此可以推测出，propulsion应该有“往前跳动，往前推动”的含义。故D项为正确答案。
+12. D  解答本题的关键在于本段的设问句“How was the gap between awalking mammal and a swimming whale bridged?”除了这个设问句，其他句子描述的都是细节状况，而所要求插入的句子不仅可以作为该设问句的答语，同时也是一个主题句，使句与句之间的语义更加连贯。因此，插入D处最为恰当。
+13. ABE  本题考查的的是主题句与例证句之间逻辑关系的分析能力。本主题句包含了两个重要信息“fossils”和“origins of cetaceans-whales，porpoises, and dolphin ...”。A项是对第一个主题信息的扩展，近期的化石发现有助于了解陆地哺乳动物和鲸类动物之间的密切联系。B项是对第二个主题信息的补充，Ambulocetus的发现为证明鲸鱼曾经在陆地和海洋中都生活过提供了证据。E项对二个主题信息的进一步说明，被认为是陆地行走的哺乳动物和水生鲸鱼的过渡期形式的化石被找到了。其他选项与主题无关，故答案为ABE。
