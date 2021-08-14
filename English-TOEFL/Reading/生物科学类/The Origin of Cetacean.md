@@ -1,0 +1,213 @@
+# The Origin of Cetacean
+
+Date: 2021-08-14
+
+[1]  It should be obvious that cetaceans whales, porpoises, and dolphins-are mammals. They breathe through lungs, not through gills, and give birth to live young. __[?]__ Their streamlined bodies, the absence of hind legs, and the presence of a fluke and blowhole cannot disguise their affinities with land dwelling mammals. __[?]__ However, unlike the cases of sea otters and pinnipeds(seals, sea lions, and walruses, whose limbs are functional both on land and at sea), it is not easy to envision what the first whales looked like. Extinct but already fully marine cetaceans are known from the fossil record. __[?]__ How was the gap between a walking mammal and a swimming whale bridged? __[?]__ Missing until recently were fossils clearly intermediate, or transitional,between land mammals and cetaceans.
+
+[2]  Very exciting discoveries have finally allowed scientists to reconstruct the most likely origins of cetaceans. In 1979, a team looking for fossils in northern Pakistan found what proved to be the oldest fossil whale. The fossil was officially named Pakicetus in honor of the country where the discovery was made. Pakicetus was found embedded in rocks formed from river deposits that were 52 million years old. The river that formed these deposits was actually not far from an ancient ocean known as the Tethys Sea.
+
+[3]  The fossil consists of a complete skull of an archaeocyte, an extinct group of ancestors of modem cetaceans. Although limited to a skull, the Pakicetus fossil provides precious details on the origins of cetaceans. The skull is cetacean-like but its jawbones lack the enlarged space that is filled with fat or oil and used for receiving underwater sound in modern whales. Pakicetus probably detected sound through the ear opening as in land mammals. The skull also lacks a blowhole, another cetacean adaptation for diving. Other features, however, show experts that Pakicetus is a transitional form between a group of extinct flesh-eating mammals, the mesonychids, and cetaceans. It has been suggested that Pakicetus fed on fish in shallow water and was not yet adapted for life in the open ocean. It probably bred and gave birth on land.
+
+[4]  Another major discovery was made in Egypt in 1989. Several skeletons of another early whale, Basilosaurus, were found in sediments left by the Tethys Sea and now exposed in the Sahara desert. This whale lived around40 million years ago, 12 million years after Pakicetus. Many incomplete skeletons were found but they included, for the first time in an archaeocyte, a complete hind leg that features a foot with three tiny toes. Such legs would have been far too small to have supported the 50-foot-long Basilosaurus on land. Basilosaurus was undoubtedly a fully marine whale with possibly nonfunctional, or vestigial, hind legs.
+
+[5]  An even more exciting find was reported in 1994, also from Pakistan. The now extinct whale Ambulocetus natans (“the walking whale that swam”) lived in the Tethys Sea 49 million years ago. It lived around 3million years after Pakicetus but 9 million before Basilosaurus. The fossil luckily includes a good portion of the hind legs. The legs were strong and ended in long feet very much like those of a modern pinniped. The legs were certainly functional both on land and at sea. The whale retained a tail and lacked a fluke, the major means of locomotion in modern cetaceans. The structure of the backbone shows, however, that Ambulocetus swam like modern whales by moving the rear portion its body up and down, even though a fluke was missing. The large hind legs were used for propulsion in water. On land, where it probably bred and gave birth, Ambulocetus may have moved around very much like a modern sea lion. It was undoubtedly a whale that linked life on land with life at sea.
+
+---
+
+1. In paragraph 1, what does the author say about the presence of a blowhole in cetaceans?
+
+A. It clearly indicates that cetaceans are mammals.
+
+B. It cannot conceal the fact that cetaceans are mammals.
+
+C. It is the main difference between cetaceans and land-dwelling mammals.
+
+D. It cannot yield clues about the origins of cetaceans.
+
+
+
+2. Which of the following can be inferred from paragraph 1 about early sea otters?
+
+A. It is not difficult to imagine what they looked like.
+
+B. There were a great number of them.
+
+C. They lived in the sea only.
+
+D. They did not leave many fossil remains.
+
+
+
+3. The word precious in the passage is closest in meaning to ____________.
+
+A. exact
+
+B. scarce
+
+C. valuable
+
+D. initial
+
+
+
+4. Pakicetus and modern cetaceans have similar ____________.
+
+A. hearing structures
+
+B. adaptations for diving
+
+C. skull shapes
+
+D. breeding locations
+
+
+
+5. The word it in the passage refers to __________________.
+
+A. Pakicetus
+
+B. fish
+
+C. life
+
+D. ocean
+
+
+
+6. The word exposed in the passage is closest in meaning to __________________.
+
+A. explained
+
+B. visible
+
+C. identified
+
+D. located
+
+
+
+7. The hind leg of Basilosaurus was a significant find because it showed that Basilosaurus __________________.
+
+A. lived later than Ambulocetus natans
+
+B. lived at the same time as Pakicetus
+
+C. was able to swim well
+
+D. could not have walked on land
+
+
+
+8. It can be inferred that Basilosaurus bred and gave birth in the following locations: __________________.
+
+A. On land
+
+B. Both on land and at sea
+
+C. In shallow water
+
+D. In a marine environment
+
+
+
+9. Why does the author use the word luckily in mentioning that the Ambulocetus natans fossil included hind legs?
+
+A. Fossil legs of early whales are a rare find.
+
+B. The legs provided important information about the evolution of cetaceans.
+
+C. The discovery allowed scientists to reconstruct a complete skeleton of the whale.
+
+D. Until that time, only the front legs of early whales had been discovered.
+
+
+
+10. Which of the sentences below best expresses the essential information in the underlined sentence in the passage? Incorrect choices change the meaning in important ways or leave out essential information.
+
+A. Even though Ambulocetus swam by moving its body up and down, it did not have a backbone.
+
+B. The backbone of Ambulocetus, which allowed it to swim, provides evidence of its missing fluke.
+
+C. Although Ambulocetus had no fluke, its backbone structure shows that it swam like modem whales.
+
+D. By moving the rear parts of their bodies up and down, modem whales swim in a different way from the way Ambulocetus swam.
+
+
+
+11. The word propulsion in the passage is closest in meaning to __________________.
+
+A. staying afloat
+
+B. changing direction
+
+C. decreasing weight
+
+D. moving forward
+
+
+
+12. Look at the four squares, [a], [b], [c], and [d] that show where the following sentence could be inserted in the passage. Where could the sentence be best added?
+
+This is a question that has puzzled scientists for ages.
+
+[a] Their streamlined bodies, the absence of hind legs, and the presence of a fluke and blowhole cannot disguise their affinities with land dwelling mammals. 
+
+[b] However, unlike the cases of sea otters and pinnipeds (seals,sea lions, and walruses, whose limbs are functional both on land and at sea), it is not easy to envision what the first whales looked like. Extinct but already fully marine cetaceans are known from the fossil record. 
+
+[c] How was the gap between a walking mammal and a swimming whale bridged?
+
+[d] Missing until recently were fossils clearly intermediate, or transitional,between land mammals and cetaceans.
+
+
+
+13. Directions: An introduction for a short summary of the passage appears below. Complete the summary by selecting the THREE answer choices that mention the most important points in the passage. Some sentences do not belong in the summary because they express ideas that are not included in the passage or are minor points from the passage. This question is worth 2points.
+
+This passage discusses fossils that help to explain the likely origins of cetaceans, whales, porpoises, and dolphins.
+
+- __
+- __
+- __
+
+Answer Choices
+
+A. Recent discoveries of fossils have helped to show the link between land mammals and cetaceans.
+
+B. The discovery of Ambulocetus natans provided evidence for a whale that lived both on land and at sea.
+
+C. The skeleton of Basilosaurus was found in what had been the Tethys Sea,an area rich in fossil evidence.
+
+D. Pakicetus is the oldest fossil whale yet to be found.
+
+E. Fossils thought to be transitional forms between walking mammals and swimming whales were found.
+
+F. Ambulocetus’ hind legs were used for propulsion in the water.
+
+
+
+
+
+
+
+
+
+---
+
+【文章大意】
+
+本文主要介绍的是能够清晰表现鲸鱼在从陆生哺乳动物到海生哺乳动物过渡时期的化石。1979年，一个小组在巴基斯坦北部地区找到了被证明是最古老的鲸鱼的化石。另一个重大发现发生于1989年的埃及，几块龙王鲸（另一种早期鲸鱼）的骨骼被发现于特提斯海遗留下的沉积物中，现在在撒哈拉沙漠暴露出来。一个更令人激动的发现是在1994年报道的，也来自巴基斯坦，已灭绝的走鲸（“会游泳的走动鲸鱼”）生活在四千九百万年前的特提斯海洋。它生活在Pakicetus之后约三百万年的时期，但是比龙王鲸早九百万年。
+
+---
+
+1. B
+2. A
+3. C
+4. C
+5. A
+6. B
+7. D
+8. D
+9. B
+10. C
+11. D
+12. D
+13. ABE
