@@ -3,7 +3,7 @@
 * [study 学习笔记和参考](README.md)
 * [Python](python/README.md)
   * [001 Python基础回顾](python/001-python-ji-chu-hui-gu.md)
-  * [巧用数学解决阴影问题](python/003-jie-jue-yin-ying-wen-ti.md)
+  * [003 巧用数学解决阴影问题](python/003-jie-jue-yin-ying-wen-ti.md)
   * [004 鸡兔同笼问题](python/004-ji-tu-tong-long-wen-ti.md)
   * [002 用Python制作计算器](python/002-yong-python-zhi-zuo-ji-suan-qi.md)
 * [README](english-toefl/README.md)
