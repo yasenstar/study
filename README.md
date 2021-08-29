@@ -1,9 +1,2 @@
-# study 学习笔记和参考
+# Initial page
 
-1. [数学知识讨论](数学)
-2. [TOFEL考试准备](English-TOEFL)
-3. SAT考试准备
-4. [Python编程](Python)
-
-5. 我可以编辑了
-=======
